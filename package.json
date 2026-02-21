@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "build": "esbuild src/plotly-graph-card.ts --outdir=dist --bundle --minify"
+    "build": "esbuild src/ad-chart-simple.js --outdir=dist --bundle --minify"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^17.1.0",

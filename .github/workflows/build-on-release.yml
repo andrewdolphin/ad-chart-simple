@@ -22,4 +22,4 @@ jobs:
     - name: Upload release asset
       uses: svenstaro/upload-release-action@v2
       with:
-        file: dist/ad-chart.js
+        file: dist/ad-chart-simple.js
